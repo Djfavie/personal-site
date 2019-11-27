@@ -1,0 +1,205 @@
+/*****************************TAG SELECTORS*****************************/
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Muli', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  border: dotted #11999E 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  padding-bottom: 10px;
+  font-family: 'Arvo', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Arvo', serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Muli', sans-serif;
+  line-height: 2;
+}
+
+/*****************************CLASS SELECTORS*****************************/
+.top-container {
+  background-color: #beebe9;
+  position: relative;
+  padding-top: 100px;
+  bottom: 15px;
+}
+
+.middle-container {
+  background-color: #dff0ea;
+  margin: -16px 0;
+  padding-top: 5em;
+}
+
+.bottom-container {
+  background-color: #c2e8ce;
+  padding: 50px 0 20px
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 475px;
+  padding-top: 15px;
+}
+
+.profile-pic {
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 5px;
+  border-color: #76dbd1;
+  box-shadow: 0 0 20px 2px grey;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bun-gif {
+  position: relative;
+  top: 200px;
+}
+
+.grass-img {
+  position: relative;
+  margin: 50px auto -3px auto;
+  width: 100%
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
+
+.twitch-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 5px;
+  border-color: #76dbd1;
+  box-shadow: 0 0 20px 2px grey;
+}
+
+.bunny-image {
+  width: 25%;
+  height: auto;
+  float: right;
+  margin-left: 30px;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 5px;
+  border-color: #76dbd1;
+  box-shadow: 0 0 20px 2px grey;
+}
+
+.html-image {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 5px;
+  border-color: #76dbd1;
+  box-shadow: 0 0 20px 2px grey;
+}
+
+.top-h3 {
+  position: relative;
+  bottom: 35px;
+  font-family: 'Satisfy', cursive;
+  font-size: 2rem;
+  margin: 10px auto 0 auto;
+  color: #66BFBF;
+}
+
+.top-h2 {
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  color: #66BFBF;
+}
+
+.top-padding {
+  padding-top: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  position: relative;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  background: linear-gradient(to bottom, #beebe9 5%, #11999e 100%);
+  background-color: #beebe9;
+  border-radius: 28px;
+  border: 1px solid #c0f0e8;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Muli', sans-serif;
+  font-size: 20px;
+  margin-bottom: 32px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #2f6627;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #11999e 5%, #beebe9 100%);
+  background-color: #11999e;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.footer-link {
+  margin: 10px 20px;
+}
+
+.copyright {
+  color: grey;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+/*****************************ID SELECTORS*****************************/
