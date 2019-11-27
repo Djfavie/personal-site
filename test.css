@@ -93,7 +93,6 @@ p {
 }
 
 .grass-img {
-  position: absolute; bottom:0
   margin: 50px auto -3px auto;
   width: 100%
 }
