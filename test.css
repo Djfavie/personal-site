@@ -70,8 +70,8 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left:7%;
-  bottom: 55%;
+  left:5%;
+  bottom: 62%;
   /* padding-top: 15px; */
   width: 20%;
 }
@@ -87,6 +87,10 @@ p {
 .intro{
 width: 80%;
 margin: 100px auto 100px auto;
+font-family: 'Muli', sans-serif;
+line-height: 2;
+font-size: 1rem;
+
 }
 
 .contact-message {
